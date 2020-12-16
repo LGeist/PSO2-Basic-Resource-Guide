@@ -74,7 +74,7 @@ There are several NPC shops you might not have looked at.
 
 #### Badge Shop Area
 ![badgeshopmap](badgeshopmap.png)
-![badgeshop](badgeshop.png)
+![badgeshop](badgeshop.jpg)
 
 Here you will find the shops for exchanging Badges, Photon Drops/Spheres/Boosters, Astracite, Ex Cubes, Buster Medals, and Battle Coins Here you can get units, weapons, and resources. Be careful what you spend. They offer a lot of weapons but a lot are dead ends. Some have useful Augment Factors, some can be upgraded at Zig. Do also note Photon Spheres are also needed to unlock a weapons Potential when Enhancing.
 
