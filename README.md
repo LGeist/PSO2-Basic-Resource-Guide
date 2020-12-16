@@ -11,7 +11,6 @@ There is a [Glossary](#Glossary) describing the some of the valuable items menti
 Legend: 
 - \* denotes the star rarity of something.
 
-  
 ## Mission Pass Season 11 Urgent Notice:
 This current season of the Mission Pass rewards you with a Key Rivalate at level 30, a necessary item for obtaining end game Rivalate Weapons from Zig. Don't miss out!
 
@@ -19,16 +18,15 @@ This current season of the Mission Pass rewards you with a Key Rivalate at level
 The game might tutorialize this for you, but make no mistake, the rewards found here are quite valuable. 
 - Don't undersell the value of the single star rewards from doing Weekly and Daily Missions.
 - You can defer claiming your rewards for items that expire, if they would otherwise expire before an advantageous time for using them. Don’t forget to actually claim them before the claim period itself expires.
-- Strive to collect the Triboost, Affix Success Boost, [Lambda Grinder](#Glossary), and [Bonus Key](##Bonus-Keys) rewards.
+- Strive to collect the Triboost, Affix Success Boost, [Lambda Grinder](#Glossary), and [Bonus Key](##Bonus-Keys) rewards.  
 
-  
 ## Mags:
 ![mag](Baby-Mag-1-.png)
 
 Feed them right to get the highest boost.
-  
+
 - Look up what kind of Mag you want for your class build, most of the time you want a pure single stat Mag. If you just feed your Mag random items, it will level up multiple stats. Instead, feed it furnishings periodically to decease unwanted stats before they level up.
-  
+
 - [Mag Food](https://pso.fandom.com/wiki/Mag#Food_items)
 
 - That chart can help you find what items will best help decrease stats. I will also quickly list the basic strategies:
@@ -36,22 +34,21 @@ Feed them right to get the highest boost.
   - R-ATK Mag: Feed Ranged Weapon (Blue Ones) + 5* Furnishings + Dimates
   - T-ATK Mag: Feed Technique Weapons (Yellow Ones) + 6* Furnishings + Trimates
   - DEX: Discs
-  
+
 - Furnishings can be bought from the NPC in the shopping center near the recycle shop, pictured later.
-  
-  
+
 ## Weapon and Unit Drops:
 ![raredrop](raredrop.jpg)
 You’ll get a lot of them, the need to off load them is a critical part of this game. But what to do?
-  
+
 - Weapons and units of 10* can be exchanged at the Swap Shop. Units 5 per 1 [Photon Sphere](#Glossary), weapons 1 per 1 [EX-Cube](#Glossary) or 30 [Grinders](#Glossary). Usually, EX-Cubes are preferable.
 - Weapons of 12* can be exchanged at the Swap Shop for Lambda Grinders.
-  
-- Weapons and Units of 11* or above can and often should be dismantled in your personal quarters for materials you can use at the Zig NPC to get end game weapons and units (with other prerequisites).
+
+- Weapons and Units of 11* or above can and often should be dismantled in your personal quarters for materials you can use at the [Zig NPC](https://pso2na.arks-visiphone.com/wiki/Zig_Permit_Exchange_Shop) to get end game weapons and units (with other prerequisites).
 - [Dismantling Materials](https://pso2na.arks-visiphone.com/wiki/Crafting_Materials)
 - Less than 11* can also be broken down, but they yield steel grade or lower materials and will only yield secondary type (the kind named with gemstone prefixes for weapons, neo or prometheus prefix for units) on a great success.
 - Lower grade materials can be exchanged at the Swap Shop for higher grade materials, excepting the highest platinum grade primary type and emerald and diamond grade secondary type.
-  
+
 **You’ll want to keep certain Affixes:**
 - Things like Modulator, Crack, Glares, Veterans Resolve, level III or above on ~4 slot (average, not a rule) units on your relevant stat increase, multiple copies of a good soul for your build, Fabula soul (for increasing success of reveries), Mutation II (for increasing success of basic stat boosts), Doom Break, stat IV on weapons (you can also save stat III but this will drop a lot, there no need to over hoard them), multiple copies of a good reverie, etc.
 - [List of Augments](https://pso2na.arks-visiphone.com/wiki/List_of_Augments)
