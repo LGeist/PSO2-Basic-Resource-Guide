@@ -12,6 +12,7 @@ Legend:
 
 ## Mags:
 ![mag](Baby-Mag-1-.png)
+
 Feed them right to get the highest boost.
 
 - Look up what kind of Mag you want for your class build, most of the time you want a pure single stat Mag. If you just feed your Mag random items, it will level up multiple stats. Instead, feed it furnishings periodically to decease unwanted stats before they level up.
@@ -63,23 +64,25 @@ Characters on the same ship can freely exchange items through default storage.
 Make sure to Grab some Collection Sheets and be running them all times, it's free and rewards you with powerful weapons. 
 
 
-• You can use them as a stopgap.
-• Upgrade them at Zig.
-• Dismantle them for crafting materials to upgrade other weapons at Zig.
-• Use the ones that come +30 as the most economical way (in both Meseta and Lambda Grinders) to Enhance 13* or above weapons.
+- You can use them as a stopgap.
+- Upgrade them at Zig.
+- Dismantle them for crafting materials to upgrade other weapons at Zig.
+- Use the ones that come +30 as the most economical way (in both Meseta and Lambda Grinders) to Enhance 13* or above weapons.
 
 
 ## NPC Shops
 There are several NPC shops you might not have looked at.
 
 #### Badge Shop Area
+
 ![badgeshopmap](badgeshopmap.png)
 ![badgeshop](badgeshop.jpg)
 
 Here you will find the shops for exchanging Badges, Photon Drops/Spheres/Boosters, Astracite, Ex Cubes, Buster Medals, and Battle Coins Here you can get units, weapons, and resources. Be careful what you spend. They offer a lot of weapons but a lot are dead ends. Some have useful Augment Factors, some can be upgraded at Zig. Do also note Photon Spheres are also needed to unlock a weapons Potential when Enhancing.
 
 #### Swap Shop Area
+
 ![swapshopmap](swapshopmap.png)
 ![swapshop](swapshop.png)
 
-Here you find the shops to buy basic Furnishings, spend FUN points, exchange Challenge Miles, and most importantly an extended Swap Shop that has many more options than the Swap Shop you can access from the AC Menu. This version of the Swap Shop is where you can exchange Mission Badges and convert lower grade item dismantling materials into higher grade ones, as mentioned previously. The Furnishing shop here is where you can buy Furnishings to help level your Mag mas described previously.
+Here you will find the shops to buy basic Furnishings, spend FUN points, exchange Challenge Miles, and most importantly an extended Swap Shop that has many more options than the Swap Shop you can access from the AC Menu. This version of the Swap Shop is where you can exchange Mission Badges and convert lower grade item dismantling materials into higher grade ones, as mentioned previously. The Furnishing shop here is where you can buy Furnishings to help level your Mag mas described previously.
