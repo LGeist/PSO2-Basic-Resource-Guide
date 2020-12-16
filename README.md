@@ -6,7 +6,7 @@ Many of these topics are much deeper than covered here, this guide serves only a
 
 ![dudustonks](stonks.png)
 
-There is a [Glossary](# Glossary) describing the some of the valuable items mentioned herein, if not otherwise linked to a relevant page.
+There is a [Glossary](#Glossary) describing the some of the valuable items mentioned herein, if not otherwise linked to a relevant page.
 
 Legend: 
 - \* denotes the star rarity of something.
