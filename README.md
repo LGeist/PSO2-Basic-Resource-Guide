@@ -12,11 +12,6 @@ Legend:
 - \* denotes the star rarity of something.
 
 
-## Starting On 1/19 Maintenance Campaign Urgent Notice!
-The current Campaigns give out free endgame gear! You must complete 5 Recommended quests and receive the gifts from them, as well as 9 runs of the new Limited Time Quest.
-- [New Campaigns: January 2021 - Part 2](https://pso2.com/news/announcements/campaignsjan2021p2)
-
-
 ## Missions and Mission Pass:
 The game might tutorialize this for you, but make no mistake, the rewards found here are quite valuable. 
 - Don't undersell the value of the single Mission Pass star rewards from doing Weekly and Daily Missions.
@@ -54,7 +49,7 @@ Always run content with the highest % boost economical.
 
 #### Consumable Boosts:
 - I'm sure I don't have to tell you about boost items, but remember, if you run 3 characters and always do your dailies, you will have more Triboosts than you can sneeze at. If you "save them for later", soon you will have >100 and could run them non stop for weeks. A good rule of thumb is to always run at least a Triboost 50%, an EXP 75%, and a Rare Drop 250% for all Urgent Quests and other high level, high reward content.
-- Rare Drop 250% can be bought for 6 EX-Cubes at the [Swap Shop](#swap-shop-area), and EXP 75% for 1 Photon Sphere.
+- Rare Drop 250% can be bought for 6 EX-Cubes at the [EX-Cube Shop](#badge-shop-area), and EXP 75% for 1 Photon Sphere in the Photon Drop Shop.
 - Don't worry about the expense, you will have more EX-Cubes and Photon Sphere than you will know what to do with if you make a habit of always Swap Shopping them as described in the next section.
 
 
@@ -73,8 +68,8 @@ You’ll get a lot of them, the need to off load them is a critical part of this
 
 **You’ll want to keep certain Affixes:**
 - Things like Modulator, Sentence Triple, Crack, Glares, Veterans Resolve, level III or above on ~4 slot (average, not a rule) units on your relevant stat increase, multiple copies of a good soul for your build, Fabula/Historia soul (for increasing success of reveries), Mutation II (for increasing success of basic stat boosts), Doom Break, stat IV on weapons (you can also save stat III but this will drop a lot, there no need to over hoard them), multiple copies of a good Reverie, etc.
-- S Grade Augments have a special icon and are extra valuable. These are easily transferred differently from regular Affixes and are rarer.
-- Make sure to also check higher rarity weapon's and unit's [Augment Factor](https://pso2na.arks-visiphone.com/wiki/Augment_Factors). You can do this by selecting the item and "Check Augment Factor". Augment Factors are extra valuable because they are a 100% base success rate, at the cost of Enhancing them item. This can yield **easy** 8s for weapons if you're clever.
+- S Grade Augments have a special icon and are *extra* valuable. These are easily transferred differently from regular Affixes and are rarer.
+- Make sure to also check higher rarity weapon's and unit's [Augment Factor](https://pso2na.arks-visiphone.com/wiki/Augment_Factors). You can do this by selecting the item and "Check Augment Factor". Augment Factors are *extra* valuable because they are a 100% base success rate, at the cost of Enhancing them item. This can yield **easy** 6/7/8s for weapons if you're clever.
 - [List of Augments](https://pso2na.arks-visiphone.com/wiki/List_of_Augments)
 - Affixing is a complex subject and I will say not not immediately stress about it, at some point you may feel like planning out your affixes, then you will know what to keep.
 - [ARKS Layer AbilitySim](https://arks-layer.com/abilitysim/na/)
