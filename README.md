@@ -85,7 +85,12 @@ Always run content with the highest % boost economical.
 - It's 5% per Order, but once you hit 50%, it's only one Order per 24 hours to maintain it.
 - The boost Orders are always correlated with the same Quest as the first Recommended Quest.
 
-#### Talisman Boost:
+#### Party Boost:
+- Being in a party invokes Triboost, increasing with each member.
+- While less effective than real players, even NPC partners provide this boost.
+- Drop your Party Beacon!
+
+#### Talisman Boosts:
 - Zig's client orders can award two Talismans.
 - Zig can be found in the Shopping Plaza, to the right of the center stage when facing towards the Casino hallway.
 - One, called Augmentalist, gives an Affix drop rate bonus; making high slot items with better Affixes easier to find. Always run this one, it's invaluable.
