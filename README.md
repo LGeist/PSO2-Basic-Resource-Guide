@@ -100,7 +100,7 @@ Always run content with the highest % boost economical.
 - Don't worry about the expense, you will have more EX-Cubes and Photon Spheres than you will know what to do with if you make a habit of always Swap Shopping for them as described later.
 - Save your Meseta Boost consumables for Rainbow Bonus Keys. The Mesetans at the end drop a lot of Meseta, as you might guess.
 
-##### Urgent Quest Participation Boosts:
+#### Urgent Quest Participation Boosts:
 - Certain Urgent Quests can reward certain boosts like rare drop rate or Enhancement success % boost for partaking in them.
 - This boost is the same as an Alliance boost in that the timer goes down at all times after being applied.
 
@@ -284,6 +284,6 @@ Feel like a headless chicken running around? I do too.
 -  Photon Spheres are another currency. They are used in places like the Photon Shop and for unlocking weapon Potentials mid way through Enhancing.
 
 
-### Need To Add:
+##### Need To Add:
 
  - Summoner Advice (Eggs and Candy are alien to me).
